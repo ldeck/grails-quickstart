@@ -1,4 +1,4 @@
 grails-quickstart
 =================
 
-Hello world
+Hello Grails 2.1.0
